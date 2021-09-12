@@ -11,11 +11,16 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on GreatCar - best place where you can sell or buy a car
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science and English
 - 💬 Ask me about React, Javascript
 - 📫 How to reach me: rscrafter1234@icloud.com
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: When I sit and do nothing I feel stupid 😅
+
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quintui&show_icons=true&theme=radical)
 
 
 <br/>
