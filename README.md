@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Kristian
 
 
-<img align="left" alt="Icon" width="400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="Icon" width="400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 <br />
