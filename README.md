@@ -19,6 +19,7 @@
 
 <br/>
 <br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quintui&show_icons=true&theme=radical)
 
@@ -88,7 +89,7 @@
 <a href="https://www.linkedin.com/in/christian-veter/">
   <img align="left" alt="Kristian's LinkdeIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
+<a href="https://www.instagram.com/quintdev/">
   <img align="left" alt="Kristian's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
