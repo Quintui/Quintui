@@ -1,16 +1,11 @@
 ### Hey 👋, I'm Kristian
 
-<a href="https://www.linkedin.com/in/christian-veter/">
-  <img align="left" alt="Kristian's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Kristian's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
+<img align="left" alt="Icon" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 
 <br />
 <br />
-
-
 
 
 **Talking about Personal Stuffs:**
@@ -84,5 +79,12 @@
 #### Cloud services ☁️ <br/>
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<a href="https://www.linkedin.com/in/christian-veter/">
+  <img align="left" alt="Kristian's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/mabroukimehdi/">
+  <img align="left" alt="Kristian's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 
