@@ -11,7 +11,7 @@
 <br />
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+  <img align="right" style = "width: 200; height: 200;" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 **Talking about Personal Stuffs:**
 
