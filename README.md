@@ -43,11 +43,13 @@
 ![Redux-Thunk](https://img.shields.io/badge/Redux-Thunk-informational?style=for-the-badge&color=yellow)
 ![React Hook Form](https://img.shields.io/badge/React-HookForm-informational?style=for-the-badge&color=red)
 ![Axios](https://img.shields.io/badge/Axios-Like?style=for-the-badge&color=blueviolet)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-Nice!?style=for-the-badge&color=blue)
 ![StoryBook](https://img.shields.io/badge/StoryBook-Perfect!?style=for-the-badge&color=ff69b4)
 
 #### UI Libraries 💅 </br>
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Backend Technologies 👨🏼‍💻 </br>
 
