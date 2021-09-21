@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on GreatCar - best place where you can sell or buy a car
 - 🌱 I’m currently learning Computer Science and English
 - 💬 Ask me about React, Javascript
-- 📫 How to reach me: rscrafter1234@icloud.com, telegram: @QuintDEV
+- 📫 How to reach me: rscrafter1234@icloud.com, Telegram: @QuintDEV
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: When I sit and do nothing I feel stupid 😅
 
