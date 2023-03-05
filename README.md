@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning Computer Science and English
 - 💬 Ask me about React, Javascript
 - 📫 How to reach me: rscrafter1234@icloud.com, Telegram: @QuintDEV
-- 😄 Pronouns: he / his
 - ⚡ Fun fact: When I sit and do nothing I feel stupid 😅
 
 <br/>
