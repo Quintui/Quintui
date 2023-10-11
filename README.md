@@ -10,9 +10,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on GreatCar - best place where you can sell or buy a car
-- 🌱 I’m currently learning Computer Science and English
-- 💬 Ask me about React, Javascript
+- 🔭 I’m currently working on LinguAI - our way of learning English
+- 🌱 I’m currently learning Golang, Algorithms
+- 💬 Ask me about React, Typescript
 - 📫 How to reach me: rscrafter1234@icloud.com, Telegram: @QuintDEV
 - ⚡ Fun fact: When I sit and do nothing I feel stupid 😅
 
