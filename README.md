@@ -10,7 +10,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on LinguAI - our way of learning English
+- 🔭 I'm currently working on LinguAI, a project I co-founded, focused on innovative methods for learning English.
 - 🌱 I’m currently learning Golang, Algorithms
 - 💬 Ask me about React, Typescript
 - 📫 How to reach me: rscrafter1234@icloud.com, Telegram: @QuintDEV
