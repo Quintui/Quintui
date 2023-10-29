@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on LinguAI, a project I co-founded, focused on innovative methods for learning English.
 - 🌱 I’m currently learning Golang, Algorithms
-- 💬 Ask me about React, Typescript
+- 💬 Ask me about Next js, Typescript
 - 📫 How to reach me: rscrafter1234@icloud.com, Telegram: @QuintDEV
 - ⚡ Fun fact: When I sit and do nothing I feel stupid 😅
 
