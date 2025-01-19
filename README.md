@@ -10,7 +10,6 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Golang, Algorithms
 - 💬 Ask me about Next js, Typescript
 - 📫 How to reach me: kristian.v.dev@gmail.com, Telegram: @QuintDEV
 
